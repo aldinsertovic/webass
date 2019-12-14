@@ -1,0 +1,13 @@
+Postovanje u prilozenom vam saljem assignment i nacin kako da se pokrene.
+
+1. U XML fajlu sam ubacio tri rijeci, i to na dva jezika(english i russian)
+	(happy,schastlivyy),	(working,rabotayet),	(butterfly,babochka)
+2. U XMLSource klasi za putanju translate.xml fajla gdje su smjesteni podaci o rijecima, potrebno je definisati, ukucati apsolutnu putanju gdje je taj folder smjesten
+	U mom slucaju to je smjesteno u projektnom mom folderu WebAssignment
+3. Uradi se Clean&Build, potom se uradi deploy aplikacije u mom slucaju je to bio na glassfish server.
+4. Potom sam otvori na web browseru localhost:4848 i usao u sistem glassfish servera, potom sam otisao na Application i unutar tog odeljka izabrao svoju aplikaciju WebAssignment.
+5. Poslije sam otvorio View EndPoint i nakon toga kliknuo link testera, gdje izbaci dva linka za testiranje.
+
+To bi bilo ukratko o koracima.
+Hvala Vam narazumijevanju. 
+	
